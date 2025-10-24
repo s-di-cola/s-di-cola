@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Simone Di Cola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 Building smart contracts and DeFi protocols on Ethereum and Solana. Working with Solidity, Rust, TypeScript, and frameworks like Hardhat, Foundry, and Anchor to create decentralised applications.
@@ -14,11 +13,6 @@ Transitioning my experience in building large-scale enterprise systems into the 
 - 🌍 Based in Nottingham, England, United Kingdom
 - 📫 How to reach me: [simone_dicola@hotmail.com](mailto:simone_dicola@hotmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/simonedicola](https://www.linkedin.com/in/simonedicola)
-<p align="left">
-  <a href="https://www.linkedin.com/in/simonedicola/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
-  </a>
-</p>
 
 ---
 
@@ -81,4 +75,3 @@ Skills from my PhD, enterprise experience, and Web3 development.
 </p>
 
 ---
-```
