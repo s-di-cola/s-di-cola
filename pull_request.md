@@ -1,0 +1,1 @@
+This PR replaces broken and truncated icon image links in the README with reliable shields.io badges and removes leftover [cite_*] markers. The change ensures icons render properly on GitHub and mobile. Commit: 480fea10c0502aca42ed7eca381df753649ac7a3.
